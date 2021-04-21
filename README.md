@@ -1,4 +1,4 @@
-# Sobre mim : man_technologist: 
+# Sobre mim :man_technologist: 
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> E aí, como vai?&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
@@ -15,11 +15,11 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 ## 🌱 Atualmente estou trabalhando/aprendendo com ...
 <br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
 <br/>
   <br/>
     <br/>
