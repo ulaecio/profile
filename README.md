@@ -3,9 +3,9 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> E aí, como vai?&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 Meu nome é Ulaecio, sou graduado em Sistemas de Informação pela <a href="http://sou.undb.edu.br/"><b>UNDB</b></a> e sou louco desde cedo por tecnologias.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">
-Em experiências passadas, eu participei de vários projetos que foram importantes para minha carreira na area de TI, mas meu foco atual é em desenvolvimento de softwares e aplicativos. Devido a dificuldades financeiras não tive a oportunidade de me graduar logo após o ensino médio. Despois de muita luta e trabalho para poder manter meus estudos, iniciei minha graduação e minha carreira na área.
-Atualmente tenho experiência de mercado com TI, atuando como Técnico de Suporte na <a href="https://centralit.com.br/"><b>CENTRAL IT</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> mas, como meu desejo sempre foi ser programador estou me aperfeiçoando cada dia mais em Desenvolvimento Web e Mobile (Java com Spring Boot, JavaScript, React, HTML5, CSS), desenvolvimento de API Rest, manipulação de dados com Postgres, MySQL, versionamento de código no GitHub e deploy em núvem(Heroku e Vercell).
-Moro em São JOsé de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um bom filme.
+Em experiências passadas, como Analista de Sistemas, eu participei de vários projetos que foram importantes para minha carreira na area de TI, mas meu foco atual é em desenvolvimento de softwares e aplicativos. Devido a dificuldades financeiras não tive a oportunidade de me graduar mais cedo, logo após o ensino médio. Após de muito esforço e trabalho para manter meus estudos, finalizei minha graduação e imergi de vez na área de Tecnologia.
+Atualmente estou atuando como Técnico de Suporte na <a href="https://centralit.com.br/"><b>CENTRAL IT</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> mas, como meu desejo sempre foi ser programador estou me aperfeiçoando cada dia mais em Desenvolvimento Web e Mobile utilizando linguagens e ferramentas conceituadas do mercado, desenvolvimento de API Rest, manipulação de dados com Postgres, MySQL, versionamento de código no GitHub e deploy em núvem.
+Moro em São José de Ribamar - MA, tenho 2 filhos, um casal. Nas horas vagas, gosto tocar violão e/ou assistir um bom filme.
 Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <br/>
@@ -20,6 +20,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <br/>
   <br/>
     <br/>
@@ -28,6 +29,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
+
 <br/>
   <br/>
     <br/>
